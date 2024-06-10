@@ -1,0 +1,12 @@
+instruction: "Instruction: Please try to answer the single-answer multiple choice question below based on the picture provided."
+
+prompt_format: 
+  - |
+    Question: {}
+    (A) {}
+    (B) {}
+    (C) {}
+    (D) {}
+    (E) {}
+    (F) {}
+    Answer:

@@ -1,0 +1,10 @@
+openai>=1.11.1
+torch>=2.0.1
+torchvision>=0.15.2
+tqdm>=4.64.0
+transformers>=4.36.2
+tiktoken>=0.7.0
+transformers_stream_generator>=0.0.5
+einops>=0.8.0
+prettytable>=3.10.0
+

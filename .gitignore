@@ -1,0 +1,6 @@
+.DS_Store
+.history
+.vscode
+__pycache__
+temp*
+*.tmp

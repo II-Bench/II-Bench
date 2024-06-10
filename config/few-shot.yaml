@@ -1,0 +1,57 @@
+instruction: 
+  - |
+    Instruction: Please try to answer the single-answer multiple choice question below based on the example(with answer) and the corresponding picture.
+  - |
+    Instruction: Please try to answer the single-answer multiple choice question below based on the examples(with answers) and the corresponding pictures.
+  - |
+    Instruction: Please try to answer the single-answer multiple choice question below based on the examples(with answers) and the corresponding pictures.
+
+few_shot_image: 
+  - |
+    images/dev/dev-1.jpg
+  - |
+    images/dev/dev-20.jpg
+  - |
+    images/dev/dev-35.jpg
+
+prompt_format: 
+  - | # dev-1
+    Question: In the comic image, what deeper societal commentary might Barry's costume choice at the party represent?
+    Picture: <Picture {}>
+    (A) The backlash faced when challenging traditional roles.
+    (B) The struggle to fit in while also standing out in social circles.
+    (C) The challenge of maintaining personal identity in group dynamics.
+    (D) The discomfort caused by confronting controversial or taboo topics in social settings.
+    (E) The effects of poor decision-making on interpersonal relationships.
+    (F) The significance of color coordination in party costumes to enhance the festive atmosphere.
+    Answer: (D)
+  - | # dev-20
+    Question: What hidden message can be inferred about the dynamics of fame and the collective cultural memory from the text and images of Brendan Fraser within the meme?
+    Picture: <Picture {}>
+    (A) The meme suggests that the public and media often overlook certain celebrities in favor of others due to shifting trends and narratives in popular culture.
+    (B) The imagery suggests that personal struggles of celebrities are often overlooked by the public and media.
+    (C) It points to a discrepancy between the talent and contributions of celebrities and their recognition in the media.
+    (D) The focus on Brendan Fraser is meant to highlight how male fashion trends drastically changed from the 90s to the present.
+    (E) Brendan Fraser is depicted as the quintessential 90s figure, indicating that he defined the entire decade's style and sensibilities.
+    (F) The meme indicates that celebrities who maintain a consistent public image are more likely to remain in the spotlight.
+    Answer: (A)
+  - | # dev-35
+    Question: What is the metaphorical significance of the glowing eye in this image?
+    Picture: <Picture {}>
+    (A) It represents the ever-present nature of surveillance in society.
+    (B) It symbolizes enlightenment and the pursuit of knowledge.
+    (C) It signifies wisdom and the foresight of a leader.
+    (D) It depicts the uninterrupted attention and care from protectors.
+    (E) It represents the vigilance and unending watchfulness of authority.
+    (F) It conveys the omnipresent gaze of societal norms and expectations.
+    Answer: (E)
+  - |
+    Question: {}
+    Picture: <Picture {}>
+    (A) {}
+    (B) {}
+    (C) {}
+    (D) {}
+    (E) {}
+    (F) {}
+    Answer:

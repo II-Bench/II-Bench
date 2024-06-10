@@ -1,0 +1,1036 @@
+[
+    {
+        "local_path": "images/dev/dev-1.jpg",
+        "questions": [
+            {
+                "id": "dev-1",
+                "question": "In the comic image, what deeper societal commentary might Barry's costume choice at the party represent?",
+                "options": [
+                    "The backlash faced when challenging traditional roles.",
+                    "The effects of poor decision-making on interpersonal relationships.",
+                    "The significance of color coordination in party costumes to enhance the festive atmosphere.",
+                    "The challenge of maintaining personal identity in group dynamics.",
+                    "The discomfort caused by confronting controversial or taboo topics in social settings.",
+                    "The struggle to fit in while also standing out in social circles."
+                ],
+                "correct_option": "The discomfort caused by confronting controversial or taboo topics in social settings.",
+                "answer": "E"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Single-panel Comic",
+            "difficulty": "Easy",
+            "domain": "Society",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor",
+                "Personification"
+            ],
+            "explanation": "This picture depicts a group of anthropomorphic deer holding a costume party in a house.The room is warmly lit, with earthly tones dominating the scene, contributing to a cozy and relaxed setting. However, the mood is juxtaposed by the central conflict presented in the dialogue bubble: \"Barry, I'm going to have to ask you to leave. Your costume is upsetting people.\"\nThe deer named Barry stands awkwardly at the doorway, dressed in a human hunter's outfit, complete with an orange vest and cap, which is ironic and unsettling given that hunters typically target deer. This costume choice is a clever role reversal and is clearly the source of discomfort for the other partygoers. This unease is subtly hinted at by the expressions of the other characters and the speech bubble with \"Eek!\".\nSymbolically, the image plays with themes of identity, perception, and social norms—Barry, in attempting to be humorous or different, challenges the comfort levels of his peers by embodying what would traditionally be seen as a threat to them. The comic invites the viewer to reflect on the delicate interplay between humor and sensitivity within social contexts."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-2.jpg",
+        "questions": [
+            {
+                "id": "dev-2",
+                "question": "Why is the character in the first comic identified as a British spy at the end?",
+                "options": [
+                    "The use of a recognizably British accent in the character’s speech patterns.",
+                    "The use of distinct British colloquialisms and spelling differences serves as a symbolic marker of nationality and allegiance during the sensitive times of war.",
+                    "The map held by the first character is a red herring designed to mislead the reader into focusing on possible strategic movements rather than language.",
+                    "Unique British idioms and phrases are peppered throughout the character's dialogue.",
+                    "Spelling choices consistent with British English, such as 'colour' instead of 'color', hint at the character's origin.",
+                    "The character's different hat style subtly implies they are not part of the group, which historically signifies social status and hence suspicion of espionage."
+                ],
+                "correct_option": "The use of distinct British colloquialisms and spelling differences serves as a symbolic marker of nationality and allegiance during the sensitive times of war.",
+                "answer": "B"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Multi-panel Comic",
+            "difficulty": "Easy",
+            "domain": "Others",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Exaggerate",
+                "Symbolism"
+            ],
+            "explanation": "This four-panel cartoon metaphorically demonstrates how language can become a tool for identifying and distinguishing identities in specific historical contexts. In this example, a character is suspected of being a British spy because of his use of different spellings and phrases (especially in the second and fourth figures). This distinction reflects the tensions and antagonisms between the United States and Britain during the American Revolutionary War, when language and accent could betray one's national allegiances. Overall, this cartoon uses language clues and cultural differences to show wartime suspicions and misunderstandings, and how to make quick judgments through these clues. It is a metaphor that in the context of tense international relations, small linguistic and cultural details can cause major misunderstandings and conflicts."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-3.jpg",
+        "questions": [
+            {
+                "id": "dev-3",
+                "question": "What is the deeper commentary embedded in the juxtaposition of the Lego figures undergoing 'plastic surgery' in this image?",
+                "options": [
+                    "It illustrates the ridiculousness of striving for physical perfection, paralleled with assembling a toy to one's liking.",
+                    "It highlights the advancements in medical technology allowing for modular replacements in humans similar to Lego figures.",
+                    "It reflects on the cultural importance of maintaining originality and preserving the true self in the face of change.",
+                    "It satirizes the often superficial nature of human cosmetic enhancements by comparing them to the simplicity of swapping parts on a toy.",
+                    "It comments on the ephemeral nature of beauty standards, equating them to easily changeable Lego pieces.",
+                    "It points out the commodification of physical appearance, akin to selecting parts from a toy set."
+                ],
+                "correct_option": "It satirizes the often superficial nature of human cosmetic enhancements by comparing them to the simplicity of swapping parts on a toy.",
+                "answer": "D"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Multi-panel Comic",
+            "difficulty": "Middle",
+            "domain": "Society",
+            "emotion": "Negative",
+            "rhetoric": [
+                "Metaphor",
+                "Personification"
+            ],
+            "explanation": "In this two-panel comic, the left panel shows LEGO figures in an operating room, with one figure lying on the operating table and two others, presumably doctors, in surgical attire, poised as if in the middle of a procedure. The right panel shows figures sitting in a waiting area, one figure holding a newspaper and another figure in a red top. The scene is juxtaposed with a door sign for the operating room that reads \"PLASTIC SURGERY,\" a play on words as LEGO figures are made of plastic, and the \"surgery\" involves changing the plastic faces of the LEGO figures.\nThe metaphorical meaning here is a humorous take on the concept of plastic surgery. Instead of the medical procedure that changes a person's appearance, it literalizes the idea by showing LEGO figures swapping out their plastic facial parts. Overall, the cartoon may be address broader issues around bodily autonomy and social expectations of one's appearance. It presented the topic in a humorous and light-hearted way, while also potentially criticizing the popularity of plastic surgery and how it reflects society's pursuit of beauty."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-4.jpg",
+        "questions": [
+            {
+                "id": "dev-4",
+                "question": "What message is intended to be conveyed by this cartoon's use of a Shiba Inu as a tank driver?",
+                "options": [
+                    "The random and unpredictable nature of war.",
+                    "The actual role of animals in war.",
+                    "A clear critique of the war.",
+                    "The importance of military strategy in contemporary conflicts.",
+                    "Evaluating the effectiveness of psychological operations in conflict zones.",
+                    "How human emotions may influence the decision-making process for military operations."
+                ],
+                "correct_option": "How human emotions may influence the decision-making process for military operations.",
+                "answer": "F"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Multi-panel Comic",
+            "difficulty": "Easy",
+            "domain": "Psychology",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Exaggerate",
+                "Symbolism",
+                "Contrast"
+            ],
+            "explanation": "In this four-panel comic, the first panel shows two military figures, with one reporting to a higher-ranking officer that the enemy has changed tactics. The second panel depicts a soldier being urged to shoot by a comrade as a tank approaches, but the soldier hesitates. The third panel reveals the reason for the hesitation: inside the tank is a Shiba Inu dog with a delighted expression. The fourth panel shows the reluctant soldier, face softened and eyes turned into hearts, declaring that the dog is too cute to shoot.  \nThe picture contains a metaphorical meaning. It suggests that cuteness or charm can disarm opposition, serving as an unexpected and nonviolent tactic to neutralize adversaries. It's a humorous take on how endearing qualities can impact human behavior, even in the direst circumstances. The cartoon conveys the message that human emotions may prevail even in serious or dangerous situations."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-5.jpg",
+        "questions": [
+            {
+                "id": "dev-5",
+                "question": "Why not just show the appearance of the bird's soul after its death and draw the first three frames of manga",
+                "options": [
+                    "The artist wants to showcase their superb comic book skills",
+                    "The contrast exposes the fragility of the human condition and the inevitability of death.",
+                    "The painter thinks that if there is only one painting, we will not be able to understand it",
+                    "The contrast highlights the theme of people's desire for things they don't have.",
+                    "The distinction draws attention to the conflicts between tradition and modernity.",
+                    "It underscores the journey of self-discovery and acceptance."
+                ],
+                "correct_option": "The contrast highlights the theme of people's desire for things they don't have.",
+                "answer": "D"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Multi-panel Comic",
+            "difficulty": "Hard",
+            "domain": "Psychology",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor",
+                "Symbolism",
+                "Contrast"
+            ],
+            "explanation": "This is a four panel manga. The first panel depicts a man lying flat on the ground with a blood hole in his chest, losing a lot of blood. The second panel depicts a man flying up from the fallen man, who looks the same as him, wearing wings and halos. Obviously, this is the soul of a man after death; The third cartoon depicts a bird lying in a pool of blood, while the fourth cartoon depicts the bird's soul soaring. However, unlike the wings of a man, the wings of a bird are human arms.This cartoon depicts how humans do not have wings and hope to become souls with wings after death, while birds have wings but no arms and hope for souls with human wings after death, indicating people's desire and expectation for things they do not have, while ignoring what they already have."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-6.jpg",
+        "questions": [
+            {
+                "id": "dev-6",
+                "question": "Why do the Starbucks icons in comics look different from those in real life",
+                "options": [
+                    "Painters are dissatisfied with Starbucks",
+                    "Painters have thoughts of insulting women",
+                    "Avoiding infringement and adding more humor points to humorous comics",
+                    "Steaming off brand elements to keep the comic espresso legal",
+                    "Pouring a different brand of humor to stir away from legal issues",
+                    "Filtering out recognizable elements to brew up trouble-free comics"
+                ],
+                "correct_option": "Avoiding infringement and adding more humor points to humorous comics",
+                "answer": "C"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Single-panel Comic",
+            "difficulty": "Hard",
+            "domain": "Life",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Personification"
+            ],
+            "explanation": "This picture depicts a woman shaking hands and greeting a huge anthropomorphic Starbucks coffee cup.The Starbucks Cup wearing a red checkered shirt first said it's nice to meet you Betty, then the woman corrected that I'm Becky, and finally the Starbucks Cup said Kelly?From the two incorrect names of this woman in the Starbucks Cup in the picture, it can be seen that this cartoon metaphorically depicts Starbucks employees intentionally writing the wrong customer name. This is not an disrespectful practice, but because many customers share their names on social media because Starbucks wrote the wrong name, which is equivalent to promoting Starbucks for free. Therefore, Starbucks often writes the wrong customer name, which also reflects its unique business acumen."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-7.jpg",
+        "questions": [
+            {
+                "id": "dev-7",
+                "question": "What’s the source of the humor when a waiter misunderstands a customer’s request for dessert?",
+                "options": [
+                    "The cook’s incorrect recipe for the dessert",
+                    "The waiter did not hear the customer’s request clearly.",
+                    "The customer’s mispronunciation of the dessert",
+                    "The waiter’s misspelling of the word “dessert”.",
+                    "Cactus cannot be used as food.",
+                    "The waiter did not hear the customer’s request clearly."
+                ],
+                "correct_option": "The waiter’s misspelling of the word “dessert”.",
+                "answer": "D"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Multi-panel Comic",
+            "difficulty": "Easy",
+            "domain": "Life",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Others"
+            ],
+            "explanation": "In this four-panel cartoon, we see a customer and a waiter in a restaurant. In the first panel, the waiter asks the customer if he would like some \"desert\", to which the customer replies \"Yes, please\". The second panel shows the waiter bringing a plate of desert (literally \"desert\") with cactus. In the third panel, the waiter asks the customer how he feels about it, and in the last panel the customer replies \"a bit dry\", which describes both the dryness of the desert and the texture of the food.\nThe cartoon contains a metaphorical meaning that wittily subverts the reader's expectations through wordplay and unexpected visual elements. Its metaphors focus on revealing everyday misunderstandings and literal interpretations of language through a clever combination of literal and derived meanings."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-8.jpg",
+        "questions": [
+            {
+                "id": "dev-8",
+                "question": "What is the \"devil bone\" in their bodies?",
+                "options": [
+                    "It symbolizes a difficult history within their culture.",
+                    "It exposes a grim aspect of their life's condition.",
+                    "It represents a harsh truth in Turkey's own existence.",
+                    "It suggests a need for turkeys to be educated about their own anatomy for survival purposes.",
+                    "It epitomizes a troubling aspect of their societal structure.",
+                    "It implies that turkeys have a cultural practice of granting wishes using their own bones."
+                ],
+                "correct_option": "It represents a harsh truth in Turkey's own existence.",
+                "answer": "C"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Single-panel Comic",
+            "difficulty": "Easy",
+            "domain": "Society",
+            "emotion": "Negative",
+            "rhetoric": [
+                "Metaphor",
+                "Personification"
+            ],
+            "explanation": "This cartoon depicts three turkeys looking at an anatomy book called \"TURKEY ANATOMY\" and discovering information about the turkey's wishbone, also known as the wishbone. The text explains that the turkeys began to look at each other suspiciously, after learning that each turkey contained a magic bone inside its body that would grant their greatest wishes. Overall, the comic explores through dark humor the impact of cultural practices and beliefs on the animals that become part of that tradition. It hints at a deeper discussion about animal rights and how humans use animals to meet their own cultural and traditional needs. At the same time, it is also a play on human desire and destiny: our pursuit of what we desire comes true sometimes precisely based on the loss of other people or other living things."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-9.jpg",
+        "questions": [
+            {
+                "id": "dev-9",
+                "question": "In the \"Loose Parts\" comic by Dave Blazek, what hidden meaning could be inferred from the arrows pointing away from \"THE ARROW STORE\"?",
+                "options": [
+                    "The arrows are a metaphor for the power of signage in attracting customers.",
+                    "The arrows represent the fast pace of life and how it leads people away from small businesses.",
+                    "The arrows are a way to guide traffic flow around the store.",
+                    "The arrows are a playful element intended to attract younger customers.",
+                    "The arrows are a metaphor for the power of signage in attracting customers.",
+                    "The arrows symbolize misdirection in marketing strategies."
+                ],
+                "correct_option": "The arrows symbolize misdirection in marketing strategies.",
+                "answer": "F"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Single-panel Comic",
+            "difficulty": "Easy",
+            "domain": "Life",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor"
+            ],
+            "explanation": "This image is a playful comic by Dave Blazek titled \"Loose Parts,\" which shows an individual named Dennis, standing in the doorway of a shop named \"THE ARROW STORE.\" The bright yellow business establishment is featured with large, eye-catching arrows on its signage, which humorously point away from the entrance. Dennis, apron-clad and with a contemplative expression, seems to have an epiphany about why his store isn't attracting customers.The layout, with arrows directing attention away from the store, leans into the humor of the situation, as signs are typically designed to draw people in rather than send them elsewhere.Emotionally, the image may provoke a sense of amusement or empathy, as viewers might relate to moments of oversight or recognize the ironic humor of the situation. The portrayal of Dennis slowly coming to a realization adds a touch of human folly and relatability.\nSymbolically, the arrows serve as a metaphor for misguided intentions or actions that lead to unintended consequences. The comic suggests that sometimes the reason for our troubles is an obvious mistake that we have overlooked, and it takes a moment of reflection to recognize the root of the problem. The humor underscores a deeper truth about self-awareness and the unintended impacts of our decisions."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-10.jpg",
+        "questions": [
+            {
+                "id": "dev-10",
+                "question": "What is the irony in the receptionist's statement to the patient at the Paranoia Clinic?",
+                "options": [
+                    "The receptionist tries to be empathetic but comes off as indifferent.",
+                    "The receptionist is unknowingly contributing to the paranoia of the patients.",
+                    "The receptionist intends to reassure the patient but accidentally confirms his fears.",
+                    "The receptionist tries to calm the patient but ends up making them more anxious.",
+                    "The receptionist is unknowingly contributing to the paranoia of the patients.",
+                    "The clinic is specialized in making people paranoid as a treatment method."
+                ],
+                "correct_option": "The receptionist intends to reassure the patient but accidentally confirms his fears.",
+                "answer": "C"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Single-panel Comic",
+            "difficulty": "Easy",
+            "domain": "Psychology",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor",
+                "Symbolism"
+            ],
+            "explanation": "This picture depicts a single-panel comic set in what is labeled as a \"PARANOIA CLINIC.\" In the scene, a receptionist at a clinic's reception window speaks to a male patient, telling him to \"Have a seat, fill this out, and everyone will be out to get you shortly.\" The man appears to be filling out a form. The environment is quite sterile and simple, with seating and a flower picture on the wall, which is typical for a clinic waiting area.\nThe metaphorical meaning of the picture is a play on the concept of paranoia, where individuals may feel that others are out to get them. The receptionist’s dialogue takes on a double meaning: while it would normally mean that medical staff will attend to the patient soon, in the context of a paranoia clinic, it humorously suggests that the patient's fears of people being after him will soon be realized, thus ironically reinforcing the very paranoia the clinic would presumably treat."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-11.jpg",
+        "questions": [
+            {
+                "id": "dev-11",
+                "question": "What hidden meaning might the juxtaposition of the cheerful sun character with the phrase \"SLOWLY DYING\" on a black background in the image represent?",
+                "options": [
+                    "The artist's perspective on the dwindling usage of solar energy in favor of non-renewable resources.",
+                    "A critique of the environmental issues leading to global warming and solar radiation.",
+                    "The pleasure of late hours shortens our time on earth",
+                    "Satisfaction of after-dark experiences quickens our demise",
+                    "The joy brought by staying up late will accelerate our death",
+                    "Delight in the darkness leads to an early grave"
+                ],
+                "correct_option": "The joy brought by staying up late will accelerate our death",
+                "answer": "E"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Illustration",
+            "difficulty": "Easy",
+            "domain": "Life",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor",
+                "Personification"
+            ],
+            "explanation": "The image presents a whimsical cartoon of the sun with a human-like face, surrounded by rays of light, set against a stark black background. The sun's countenance is disarmingly innocent and cute, featuring wide eyes and a small, contented smile,but there are big black circles under the eyes. Upon this playful depiction, a bold, hand-written style caption reads \"SLOWLY DYING,\" which wraps around the sun's circular shape. The contrast between the image and the text is jarring: the sun typically symbolizes life, warmth, and vitality, yet the text suggests a gradual decline or entropy.This cartoon depicts how people's unhealthy behavior of staying up late until dawn can slowly lead us to die in the joy of staying up late."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-12.jpg",
+        "questions": [
+            {
+                "id": "dev-12",
+                "question": "What hidden message about the nature of self-perception and societal expectations is being conveyed through the circular arrangement of the women and the repeated thought bubbles in the image?",
+                "options": [
+                    "The repeated thought bubbles in the image suggest that each woman is confident and content with her own appearance, symbolizing high self-esteem.",
+                    "The image is illustrating the concept of the \"grass is always greener on the other side,\" highlighting that individuals often desire the qualities they perceive others to possess, without recognizing their own unique attributes.",
+                    "The repeated thought bubbles and circular arrangement symbolize the endless loop of comparison, indicating that such a mindset traps individuals in a cycle of dissatisfaction.",
+                    "The circular arrangement represents the cycle of fashion trends and how each woman is a trendsetter in her own right.",
+                    "It reflects on the endless cycle of comparison and competition, emphasizing how societal pressures encourage a lack of satisfaction with oneself.",
+                    "The circular arrangement represents the cycle of fashion trends and how each woman is a trendsetter in her own right."
+                ],
+                "correct_option": "The image is illustrating the concept of the \"grass is always greener on the other side,\" highlighting that individuals often desire the qualities they perceive others to possess, without recognizing their own unique attributes.",
+                "answer": "B"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Illustration",
+            "difficulty": "Easy",
+            "domain": "Psychology",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Contrast"
+            ],
+            "explanation": "This image presents issues related to comparative psychology, social aesthetic standards, and self acceptance by showcasing mutual envy among women. It reminds us that in this seemingly forever eager society, it is important to recognize that everyone has their own unique beauty and learn to cherish and accept their uniqueness. This image encourages the audience to reflect on themselves, recognize the potential negative emotions, and importantly, cultivate self affirmation and self love."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-13.jpg",
+        "questions": [
+            {
+                "id": "dev-13",
+                "question": "What hidden meaning can be inferred from the differing portrayals of the character's goodbye to the direwolf in the two panels?",
+                "options": [
+                    "It reflects the direwolf's preference for stoic goodbyes rather than emotional departures.",
+                    "Many viewers theorized that the farewell was intentionally unsatisfying, challenging viewers to reflect on their expectations of emotional closure.",
+                    "It implies that the character regrets his decision and wishes to change past actions through a more affectionate goodbye.",
+                    "Many viewers interpreted the goodbye as a metaphor for the character’s personal growth and detachment from the past.",
+                    "many fans felt that Jon's farewell to Ghost was too simple and lacked emotion, not matching their deep relationship.",
+                    "Many viewers felt the simple goodbye reflected the character’s pragmatic approach to life, prioritizing duty over personal attachment."
+                ],
+                "correct_option": "many fans felt that Jon's farewell to Ghost was too simple and lacked emotion, not matching their deep relationship.",
+                "answer": "E"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Illustration",
+            "difficulty": "Easy",
+            "domain": "Life",
+            "emotion": "Positive",
+            "rhetoric": [
+                "Metaphor"
+            ],
+            "explanation": "This comic consists of two frames, depicting a farewell scene of Jon Snow and his direwolf Ghost from \"Game of Thrones\", as well as a more fitting way of saying goodbye as perceived by the audience.\nIn the first frame, titled \"How JON SNOW SAID GOODBYE TO GHOST\", we see Jon standing facing Ghost, with no physical contact or emotional expression, giving off a sense of distance and indifference.\nThe second frame, titled \"How Jon SHOULD HAVE SAID GOODBYE TO GHOST\", shows a completely different scene: Jon tightly embracing Ghost, accompanied by the text: \"YOU'RE A GOOD BOY, GHOST. AND NO MATTER WHAT HAPPENS, YOU'LL ALWAYS BE A PART OF ME.\" This expresses deep affection and appreciation for their shared experiences in the past.\nOverall, this comic reflects some \"Game of Thrones\" audience's dissatisfaction with the way Jon said goodbye to Ghost. In the original show, many fans felt that Jon's farewell to Ghost was too simple and lacked emotion, not matching their deep relationship. This comic humorously and exaggeratedly expresses the audience's expectations and disappointments for this emotional scene."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-14.jpg",
+        "questions": [
+            {
+                "id": "dev-14",
+                "question": "What hidden meaning could the expressions and positions of the coffee cups in the image potentially symbolize in the context of human behavior and decision-making?",
+                "options": [
+                    "The battle between instant gratification and delayed satisfaction.",
+                    "The debate between self-indulgence and the pursuit of austerity.",
+                    "The balance between moderation and excess in daily life.",
+                    "The evolution of coffee culture from traditional to modern beverages.",
+                    "The joy of indulgence versus the discontent of self-restraint.",
+                    "The environmental impact of disposable coffee cups."
+                ],
+                "correct_option": "The joy of indulgence versus the discontent of self-restraint.",
+                "answer": "E"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Illustration",
+            "difficulty": "Easy",
+            "domain": "Life",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor",
+                "Exaggerate",
+                "Visual Dislocation",
+                "Personification"
+            ],
+            "explanation": "The image captures two illustrated coffee cups placed side by side to create a single cohesive scene. The cup on the left embodies a frappuccino with a happy expression and a straw protruding from its whipped cream top. Conversely, the cup on the right features a character holding a coffee cup, expressing dismay or discomfort, seemingly jealous or overwhelmed by the more indulgent drink.\nThe colors are relatively muted, with browns and soft hues dominating the palette, imparting a warm, coffeehouse vibe that is both inviting and intimate. The artwork has a cartoonish style, which injects humor and personality into inanimate objects, connecting with the viewers through anthropomorphism.\nThis image may resonate with the common experience of choice and indulgence in daily life, potentially symbolizing the internal battle between choosing a delightful yet perhaps less healthy option (represented by the frappuccino) and the simpler, perhaps more practical choice (implied by the plain-looking cup the character is holding). This scene could spark thoughts about personal desires, societal pressures, or the joys and guilt surrounding small indulgences. The contrast in the characters' expressions vividly captures the emotional tug-of-war over such decisions."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-15.jpg",
+        "questions": [
+            {
+                "id": "dev-15",
+                "question": "In this comic, what deeper meaning is mainly metaphorically conveyed by the characters portrayed in the form of chairs and their situation?",
+                "options": [
+                    "The characters' struggle with personal identity and the search for belonging in a changing world.",
+                    "The issue of alienation and lack of communication among people in the city.",
+                    "The expression of parents' pain of losing a child and their sense of powerlessness in reality.",
+                    "The expression of overcoming adversity and finding strength in vulnerability.",
+                    "The examination of the concept of home and what it means to feel a sense of place.",
+                    "Exploration of changes in modern society's family structure."
+                ],
+                "correct_option": "The expression of parents' pain of losing a child and their sense of powerlessness in reality.",
+                "answer": "C"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Illustration",
+            "difficulty": "Hard",
+            "domain": "Life",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor"
+            ],
+            "explanation": "This comic is indeed presented in black and white tones, with a detailed city street scene in the background. The two central characters look melancholic and puzzled, presented in the form of human-shaped chairs. On the right side next to the chair character, there is a utility pole with a \"Missing Child\" poster, featuring a face similar to the chair character's facial features, indicating that this chair character may be the father of the missing child mentioned in the poster. On the left side, another chair character is placed next to a box with a missing person notice saying \"Have you seen our son?\", suggesting that this chair character may be the mother of the missing child,in her arms was a stack of missing persons notices.The comic's somber atmosphere may depict the pain of parents losing a child, and by using chair imagery to represent characters, it may also metaphorically convey the feeling of helplessness or nowhere to place oneself in pain, much like a chair that cannot be sat on. This design cleverly conveys the emotional void of losing loved ones and the upheaval in life."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-16.jpg",
+        "questions": [
+            {
+                "id": "dev-16",
+                "question": "How is the humorous effect achieved in this comic?",
+                "options": [
+                    "By altering the perspective within the drawing",
+                    "By creating a visual illusion with the window frame",
+                    "By having the skull engage in a dialogue with another character",
+                    "By employing a wordplay in the dialogue",
+                    "By depicting the skull's everyday life",
+                    "By using color contrast to attract the viewer"
+                ],
+                "correct_option": "By creating a visual illusion with the window frame",
+                "answer": "B"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Meme",
+            "difficulty": "Easy",
+            "domain": "Others",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Symbolism",
+                "Visual Dislocation"
+            ],
+            "explanation": "This image conveys humor through optical illusions and word play, and is intended to express a witty treatment of mathematical or philosophical concepts. The skull character's line \"OH NO I'VE BEEN TRAPPED IN ABSTRACT GEOMETRY\" can literally be understood as saying that he is trapped in some kind of abstract geometric space, but in reality This dilemma is caused by the visual effect of the window sash. This clever visual representation and textual expression combine to create an unexpected and humorous scene.\nPersonally, this image does have a sense of humor as it defies conventional perspectives and expectations to illustrate a simple concept of how panes can change our visual perception of an object in an intelligent and creative way . At the same time, it also plays with language puns, causing a momentary dislocation in people's understanding. This sudden \"turn\" in understanding is the key to humor."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-17.jpg",
+        "questions": [
+            {
+                "id": "dev-17",
+                "question": "What does this picture suggest about family life?",
+                "options": [
+                    "Children need to learn how to keep their homes clean.",
+                    "Children’s endeavor to surprise adults contributes to family leisure time.",
+                    "Children's pranks can add joy to family life and create fond memories.",
+                    "The creative trouble-making by kids adds charm to family gatherings.",
+                    "Shoes are often lost or damaged by children.",
+                    "Family gatherings often lead to mischievous games among kids."
+                ],
+                "correct_option": "Children's pranks can add joy to family life and create fond memories.",
+                "answer": "C"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Meme",
+            "difficulty": "Easy",
+            "domain": "Life",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor"
+            ],
+            "explanation": "The image shows a pair of checkerboard skate shoes with the caption: \"Couldn't figure out why I couldn't put my shoes on. It's cause my 6-year-old pulled a great prank.\" (Couldn't figure out why I couldn't put my shoes on. Because my six-year-old pulled a great prank.\nKey elements and scenarios include:\nA pair of checkerboard skate shoes: This pair of shoes is the main item in the picture, attracting attention with its bright pattern.\nThe condition of the shoe: The shoe looks intact, but the tongue part is tucked into the shoe, which may be the cause of the difficulty in wearing the shoe.\nThe caption reveals it was the result of a prank by a six-year-old and suggests the uploader was initially confused.\nFrom a personal point of view, the underlying message of the picture may be about the small episodes of children's pranks in family life, and the harmless jokes they bring. This picture shows a common scene in a family where children spice up everyday life with their creative and playful pranks. Through the simple and ingenious prank of the child tucking the tongue into the shoe, we can see the confusion and ultimately the relaxed attitude of the adult in the face of the child's prank.\nThe scene may remind us that although children's pranks can sometimes cause us minor inconvenience, they are also an expression of a child's innocence and creativity. It may also be suggesting that such small episodes in life can be seen as precious fragments of family interactions and memories, worthy of stopping to smile and appreciate in the midst of our busy and sometimes potentially too serious lives."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-18.jpg",
+        "questions": [
+            {
+                "id": "dev-18",
+                "question": "What hidden meaning might the infinite scroll-like pit represent in the context of the person trying to stop the viewer from scrolling?",
+                "options": [
+                    "The seemingly endless descent into the digital space, symbolizing the overwhelming nature of online content consumption.",
+                    "The bottomless pit of online engagement, illustrating the difficulty in disconnecting from digital platforms.",
+                    "The unending journey through virtual realms, reflecting the insatiable curiosity for digital exploration.",
+                    "A representation of physical depth, illustrating the potential dangers of the real-world environment when not paying attention.",
+                    "A stylized artistic element with no intended symbolic meaning, simply there to create a visually interesting background.",
+                    "The endless fall through digital landscapes, symbolizing the seductive lure of social media."
+                ],
+                "correct_option": "The seemingly endless descent into the digital space, symbolizing the overwhelming nature of online content consumption.",
+                "answer": "A"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Meme",
+            "difficulty": "Easy",
+            "domain": "Society",
+            "emotion": "Negative",
+            "rhetoric": [
+                "Metaphor",
+                "Visual Dislocation"
+            ],
+            "explanation": "The image portrays a person with an expression of mock desperation, affixed to the background in what seems like an attempt to halt the viewer's scrolling. The background consists of a seamlessly repeating pattern of gray blocks forming what could be likened to an infinite digital wall. Within this, the pattern warps into what appears to be a tunnel or a pit, creating an optical illusion of depth. The use of grayscale for the background emphasizes the person, dressed in a contrasting light blue shirt and beige pants. Comic relief is provided by the text \"holy s**t stop scrolling so fast,\" suggesting a playful interaction with the viewer. The image communicates a modern concern of the digital age—the ceaseless and speedy consumption of content on social media and the internet at large. The sensation of falling down the figurative rabbit hole of content is embodied by the illusionary pit. The person's plea can be seen as a humorous commentary on the overwhelming nature of continuous digital content flows and the human urge to pause or slow down this relentless immersion."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-19.jpg",
+        "questions": [
+            {
+                "id": "dev-19",
+                "question": "What hidden meaning can be deduced from the arrow finding its way through the visor of the helmet in the image representing the year 2020?",
+                "options": [
+                    "It denotes the concept that unforeseen challenges can provide opportunities for growth.",
+                    "It suggests that taking protective measures is an unnecessary precaution in times of crisis.",
+                    "It represents the importance of always being ready to face new challenges.",
+                    "It symbolizes the idea that success is achievable despite unexpected obstacles.",
+                    "It illustrates that armor from the past is not suitable for the challenges of the modern era.",
+                    "It signifies that no matter how well-prepared one thinks they are, there is always vulnerability to unforeseen events."
+                ],
+                "correct_option": "It signifies that no matter how well-prepared one thinks they are, there is always vulnerability to unforeseen events.",
+                "answer": "F"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Meme",
+            "difficulty": "Easy",
+            "domain": "Life",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor",
+                "Contrast"
+            ],
+            "explanation": "This image depicts a metaphorical comparison using two panels to reflect on the year 2020. In the top panel, labeled \"Me being prepared for 2020:\", we see a figure clad in full shining armor, steadfastly holding a sword, a traditional symbol of readiness and defense. The scene suggests a sense of preparedness and confidence, with the individual appearing as if they are ready to face upcoming challenges with strength and resilience. The muted colors in the background contribute to a serene, almost idyllic atmosphere, reinforcing the impression of control and peace.\nThe bottom panel, simply labeled \"2020:\", presents a stark contrast. The armor, which was supposed to protect, is humorously rendered ineffective as an arrow has found an improbable gap at the visor and pierced the figure's head. This visual is a powerful metaphor for the unexpectedness and severity of challenges faced in the year 2020, likely alluding to the global COVID-19 pandemic which caught many off guard and had widespread, unforeseen consequences. Despite the dire implication, the exaggerated nature of the image adds a tinge of dark humor, possibly serving as a coping mechanism to deal with the overwhelming nature of the events.\nThis image relies on the juxtaposition of expectations and reality to convey its message. It humorously but poignantly illustrates the helplessness felt by many during that tumultuous year, despite prior preparations or confidence. It speaks to the universal experience of surprise and the inadequacy of even the best-prepared."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-20.jpg",
+        "questions": [
+            {
+                "id": "dev-20",
+                "question": "What hidden message can be inferred about the dynamics of fame and the collective cultural memory from the text and images of Brendan Fraser within the meme?",
+                "options": [
+                    "The meme indicates that celebrities who maintain a consistent public image are more likely to remain in the spotlight.",
+                    "The imagery suggests that personal struggles of celebrities are often overlooked by the public and media.",
+                    "It points to a discrepancy between the talent and contributions of celebrities and their recognition in the media.",
+                    "Brendan Fraser is depicted as the quintessential 90s figure, indicating that he defined the entire decade's style and sensibilities",
+                    "The meme suggests that the public and media often overlook certain celebrities in favor of others due to shifting trends and narratives in popular culture.",
+                    "The focus on Brendan Fraser is meant to highlight how male fashion trends drastically changed from the 90s to the present."
+                ],
+                "correct_option": "The meme suggests that the public and media often overlook certain celebrities in favor of others due to shifting trends and narratives in popular culture.",
+                "answer": "E"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Meme",
+            "difficulty": "Middle",
+            "domain": "Art",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Others"
+            ],
+            "explanation": "The image is a meme comparing 90s heartthrobs, specifically highlighting Brendan Fraser alongside oft-discussed names like Johnny Depp and Brad Pitt. It features two side-by-side photographs of Brendan Fraser in his youthful days, clad in 90s attire, which includes long hair, leather jackets, and necklaces that suggest a laid-back, grunge-era cool. The text overhead states, \"Everyone's always talking about 90s Johnny Depp or Brad Pitt when 90s Brendan Fraser existed,\" pointing out how Fraser's appeal during that time is sometimes overlooked in popular culture conversations.\nThe colors are vivid, which makes the pictures stand out, with rich blacks and deep reds that contribute to a nostalgic feeling. The layout is simple, directing focus immediately to Fraser's images and the statement above them, which is humorous as well as provocative, potentially inducing the viewer to reconsider popular narratives of 90s celebrity culture.\nThis meme could evoke feelings of nostalgia and amusement in those familiar with the actors mentioned. It acts as a visual comment on celebrity culture and the selective memory of public discourse, subtly critiquing the way histories are written with biases towards certain figures while others are undervalued or forgotten despite their contributions or popularity at the time."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-21.jpg",
+        "questions": [
+            {
+                "id": "dev-21",
+                "question": "What is the basic theme of this news ?",
+                "options": [
+                    "Individuals may unconsciously follow A collective style when trying to express uniqueness.",
+                    "Individuals may intentionally mirror a widespread pattern to exhibit personal style.",
+                    "Everyone in the hipster community wants media attention.",
+                    "People deliberately conform to a group norm while aiming for distinctiveness.",
+                    "Citizens may inadvertently emulate a general trend to show their uniqueness.",
+                    "All hipsters have completely different looks and styles."
+                ],
+                "correct_option": "Individuals may unconsciously follow A collective style when trying to express uniqueness.",
+                "answer": "A"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Poster",
+            "difficulty": "Middle",
+            "domain": "Society",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor"
+            ],
+            "explanation": "This image is a screenshot of a news article, The headline Was \"Hipster Gets Mad His Photo Was Used In Article About How All Hipsters Look Alike, Then Finds Out It Wasn't Him.\" The article was written by Sean Murray and published on March 12, 2019. Key elements and scenarios include:\nThe headline: describes a self-identified hipster in the article who bristles at what is considered a typical stereotype.\nThe man in the picture: long beard, sunglasses, plaid shirt, these are typical \"hipster\" style signs.\nThe article refers to a social phenomenon in which individuals in certain groups are often perceived to have similar looks and styles.\nFrom a personal point of view, the overtones of the picture may be satire and social observation. The title itself is ironic, with an angry hipster protesting that his photo is being used to illustrate how hipsters lack personality, only to discover that the object of his anger isn't even him, which deepens the irony of the original title.\nThis scenario may point to how easily we categorize people and assume that they lack uniqueness, but it also reflects how members of certain cultural groups may unconsciously follow a common style or trend when trying to express individuality. By sharing stories like this, the article may be addressing deeper topics of individuality, uniqueness, and collective identity, and how these concepts are understood and challenged in modern society. At the same time, it shows how the media and social platforms can discuss and disseminate complex social phenomena through humor and satire."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-22.jpg",
+        "questions": [
+            {
+                "id": "dev-22",
+                "question": "What emotion might the serious expression of the man in the McDonald's uniform in the picture convey?",
+                "options": [
+                    "The overwhelmed feeling of the employees during peak hours.",
+                    "The concern of the staff about meeting health and safety standards.",
+                    "The helpless attitude of McDonald's employees in the face of the failure of the ice cream machine.",
+                    "The stress of the staff trying to fulfill a complicated order.",
+                    "The man is surprised by the malfunction of the ice cream machine.",
+                    "Men are satisfied with the working conditions at McDonald's."
+                ],
+                "correct_option": "The helpless attitude of McDonald's employees in the face of the failure of the ice cream machine.",
+                "answer": "C"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Poster",
+            "difficulty": "Easy",
+            "domain": "Society",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor"
+            ],
+            "explanation": "The image shows a male wearing a McDonald's uniform and trademark hat, with a serious expression that appears to be saying something in earnest. Above the picture is a text: \"Listen to me carefully. The ice cream machine isn’t working right now. Keep a level head,  here’s what you’re going to do. Walk out the door and go down the block to Wendy’s. Order a vanilla Frosty. It's not the same but it's good enough. Nod your head if you understand.\" \nFrom a personal point of view, the underlying message of the picture may be a humorous and ironic reference to the frequent breakdowns of ice cream machines in fast food chains. The men in the picture represent people who might work at McDonald's, and the text above provides a coping strategy by directing customers to a competitor Wendy's so they can get similar products. This not only reflects the common phenomenon of ice cream machine failures, but also reveals the helplessness of employees and customers about the problem.\nThe scene may be a hint that while fast-food chains offer fast and convenient service to customers, they also face equipment breakdowns and operational challenges. Through such images and text, it may be exploring the adaptability of consumers to service disruptions, as well as the delicate competition between brands. In general, the picture reflects consumers' views on the gap between fast food service expectation and reality through humorous expression."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-23.jpg",
+        "questions": [
+            {
+                "id": "dev-23",
+                "question": "What do the corresponding structures of the words \"Pretty but useless\" and \"Structural and serves a purpose\" at the top of the picture imply, respectively?",
+                "options": [
+                    "Resumes may overemphasize form and neglect actual competence, while the candidate's practicality and competence are more critical.",
+                    "A good-looking resume is always useless, and a practical candidate is not attractive.",
+                    "Structural beauty is always more important than practical use.",
+                    "Profiles often embellish the external format at the detriment of showcasing genuine proficiency and work acumen.",
+                    "Candidate profiles may exaggerate visual layout while undermining the significance of professional capabilities.",
+                    "Job applications often focus on superficial achievements rather than a person's ability to perform job duties."
+                ],
+                "correct_option": "Resumes may overemphasize form and neglect actual competence, while the candidate's practicality and competence are more critical.",
+                "answer": "A"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Poster",
+            "difficulty": "Easy",
+            "domain": "Society",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor"
+            ],
+            "explanation": "This image juxtaposes two very different structures: the Eiffel Tower in Paris on the left and a power transmission tower on the right. The text above The picture reads: \"The resume\" and \"The candidate,\" suggesting that these two structures represent the resume and the candidate, respectively. \nFrom a personal point of view, the underlying message of the picture may be humorous and ironic about the difference between the resume and the candidate's actual abilities in the job search process. The Eiffel Tower, as a symbol of the \"resume,\" suggests that a resume may be designed to be attractive but not necessarily reflect the candidate's true abilities. The power transmission tower, as a symbol of the \"candidate\", although the appearance is not as attractive as the Eiffel Tower, it has practical functions and uses.\nThis scenario may suggest that resumes may overemphasize form over content, and that candidates' true abilities and contributions to the job may be more important than their appearance when evaluating them. With images and text like this, it may be exploring the tension between the way job seekers present themselves and the way recruiters look for ideal candidates. To sum up, the picture conveys a profound insight about job recruitment through humorous metaphors."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-24.jpg",
+        "questions": [
+            {
+                "id": "dev-24",
+                "question": "Which point was reinforced by the humor of the comment \"Looks good to me\"?",
+                "options": [
+                    "People may sometimes overlook obvious problems and maintain A self-soothing optimism.",
+                    "Persons frequently practice a deliberate neglect of apparent issues to stay hopeful.",
+                    "It's common for people to adopt a comforting positive outlook, even in flawed situations.",
+                    "Individuals can exhibit a tendency to focus on positive aspects, missing clear faults.",
+                    "The actual progress of the work is always in line with expectations and assessments.",
+                    "Workplace projects get good reviews even in the face of difficulties."
+                ],
+                "correct_option": "People may sometimes overlook obvious problems and maintain A self-soothing optimism.",
+                "answer": "A"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Poster",
+            "difficulty": "Easy",
+            "domain": "Society",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Metaphor"
+            ],
+            "explanation": "This image shows a twisted section of track that is clearly no longer suitable for trains. The trail is surrounded by lush vegetation and streams. The text above the image is a conversation: \"How do those open requests look? Response: \"Me: Everything is on track! !\nOn a personal level, the underlying message may be a humorous reflection on the discrepancy between optimistic reporting and workplace reality. The questions and answers in the conversation hint at a common workplace communication, where when asking about the status of a project or task, people often expect to hear a positive response. However, the twisted railroad tracks in the image mock the optimistic statement that \"everything is on track.\"\nThis situation may suggest that while people may be inclined to report positive news in the workplace, reality may not always be so rosy. Through images and text like this, it might be exploring the tension between integrity and reality in the workplace, and how people deal with the gap between expectations and actual progress at work.  Overall, the image conveys an in-depth discussion of workplace communication and project management through contrast and irony."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-25.jpg",
+        "questions": [
+            {
+                "id": "dev-25",
+                "question": "What does the sign suggest one should do if they have evidence against evolution?",
+                "options": [
+                    "Keep it to themselves and stay silent.",
+                    "Discuss it at the Bible address every Sunday.",
+                    "Sketch the concept, let the scientific society judge, and hope for a monumental prize.",
+                    "Detail your evidence, have it assessed by authorities, and hope for a significant award.",
+                    "Write out the hypothesis, have it challenged and validated by peers, and target a high honor.",
+                    "Write it down, get it peer reviewed, and collect a Nobel Prize."
+                ],
+                "correct_option": "Write it down, get it peer reviewed, and collect a Nobel Prize.",
+                "answer": "F"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Poster",
+            "difficulty": "Easy",
+            "domain": "Others",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Contrast"
+            ],
+            "explanation": "The image contains two parts. The upper half features a signboard with the words \"BIBLE ADDRESS EVERY SUNDAY\" and emphasizes \"EVOLUTION IS A LIE.\" The signboard also contains some information about beliefs and religion. The lower half is a close-up of the signboard stating: \"IF YOU HAVE EVIDENCE TO DISPROVE EVOLUTION... THEN WRITE IT DOWN, GET IT PEER REVIEWED & COLLECT YOUR NOBEL PRIZE.\" The structure of the image is designed to present an anti-evolutionary stance and subtly suggest through challenging language that if someone can prove evolution wrong, they should be acknowledged for making a significant scientific contribution.The juxtaposition of the two messages, one asserting a religious belief and the other challenging scientific evidence, provokes thought and might stir emotions ranging from agreement and support to disbelief and frustration. The board acts as a symbol of the ongoing conflict between science and religion and the struggle for truth and understanding in society.\n"
+        }
+    },
+    {
+        "local_path": "images/dev/dev-26.webp",
+        "questions": [
+            {
+                "id": "dev-26",
+                "question": "What could the variety of colors in the roots of the image symbolize with respect to the person's life and experiences?",
+                "options": [
+                    "The multitude of significant relationships and connections in their life.",
+                    "The person's emotional states throughout different times in their life.",
+                    "The person's favorite colors and their preference in fashion.",
+                    "The diversity of the person’s life experiences and the richness of their personal history.",
+                    "The spectrum of emotions and personal growth phases the person has undergone.",
+                    "The collection of cultural influences and societal interactions the person has encountered."
+                ],
+                "correct_option": "The diversity of the person’s life experiences and the richness of their personal history.",
+                "answer": "D"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Painting",
+            "difficulty": "Middle",
+            "domain": "Life",
+            "emotion": "Positive",
+            "rhetoric": [
+                "Symbolism"
+            ],
+            "explanation": "The image depicts a standing man with a series of colored lines at his feet that extend from the soles of his feet, resembling the roots of a tree. The lines come in a variety of colors and expand in all directions, as if forming a colorful network under the ground.\n\nThe image doesn't have a specific storyline, but it conveys a strong metaphorical meaning. The root extension of the figure symbolizes the life, experiences, influences, and relationships of the individual that underpin a person. These colored lines may represent the diversity of individuals, including their emotions, thoughts, social connections, cultural backgrounds, and life experiences.\n\nDelving into its implications, this image may be exploring how a person's personality and identity are shaped by a number of different factors. The colored roots may symbolize each person's unique life experiences and social connections, and how these factors form our complex personal histories and social networks. In addition, this visual metaphor also hints at the connection between the individual and society and the environment, and how we are deeply rooted in the world around us.\n\nThe picture may also be saying that as simple as we may seem on the surface, the inside of each person is actually made up of a myriad of unseen threads that represent our experiences, beliefs, relationships, and growth. These differently colored roots are perhaps a celebration of the importance of diversity and individual uniqueness."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-27.webp",
+        "questions": [
+            {
+                "id": "dev-27",
+                "question": "In this image depicting the dialog box as a fist, the fist most likely represents which type of communication?",
+                "options": [
+                    "honest and direct communication",
+                    "verbal aggression and conflict",
+                    "diplomatic negotiation and compromise",
+                    "a party that seeks to control the direction of the conversation",
+                    "non-verbal cues and body language",
+                    "sarcasm and irony"
+                ],
+                "correct_option": "verbal aggression and conflict",
+                "answer": "B"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Painting",
+            "difficulty": "Easy",
+            "domain": "Life",
+            "emotion": "Negative",
+            "rhetoric": [
+                "Metaphor",
+                "Exaggerate"
+            ],
+            "explanation": "In this image, the dialog between the two figures is shown as a fist, which may symbolize the aggressiveness of speech or violence in communication. This image conveys the harm that words can cause, like a punch. It shows how words may not only be a tool for communication, but may also be a weapon to hurt others. This expression may point to a heated argument, a verbal attack, or verbal abuse."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-28.webp",
+        "questions": [
+            {
+                "id": "dev-28",
+                "question": "What does the image of the girl climbing the stairs to enter the portal in the man's mind symbolize?",
+                "options": [
+                    "Unlocking the secrets hidden in the man's subconscious",
+                    "The girl is searching for her own psychological space",
+                    "Exploring the shadowy aspects of the man's inner psyche",
+                    "The girl's exploration of an unknown world",
+                    "Attempting to understand and connect with the man's inner world",
+                    "Probing into the enigmatic nature of the man's thought processes"
+                ],
+                "correct_option": "Attempting to understand and connect with the man's inner world",
+                "answer": "E"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Painting",
+            "difficulty": "Hard",
+            "domain": "Society",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Symbolism"
+            ],
+            "explanation": "This picture depicts a girl standing in front of a staircase formed by the head of a lying man, walking upwards as if about to enter the gateway in the man's mind. Behind the man's head was a pitch black night sky scattered with stars, while on both sides of the stairs were several trees outlined by simple lines.\nThis image does not have a direct storyline, but it conveys a strong metaphor: the girl embarks on a path to the depths of the man's mind, symbolizing an exploration of his inner world or an attempt to understand his psychological state. A portal may represent a metaphor for entering another person's heart, implying a deep emotional connection or psychological interaction.\nIn depth analysis of its connotation, this picture may explore understanding and resonance in interpersonal relationships, especially in intimate relationships, attempting to understand the complex feelings and thoughts of the other party. In addition, this picture may also be discussing human curiosity about the inner world of others and the challenges and challenges associated with it.\nThe night sky and stars may symbolize the vastness and depth of a man's thoughts, while trees may represent life and growth. Here, it may mean that as understanding grows, interpersonal relationships will also grow and develop accordingly. The act of a girl entering the door may symbolize courage, determination, and an open attitude towards exploring the inner world of others.\nOverall, this picture conveys the importance of communication and understanding between people, as well as how we strive to connect and understand the inner world of others. It reminds us that understanding others can be a challenging path, but it is also a crucial part of building deep and meaningful relationships."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-29.webp",
+        "questions": [
+            {
+                "id": "dev-29",
+                "question": "According to this picture, what is the most likely meaning represented by the mother's substitution of her child's homework?",
+                "options": [
+                    "the mother's strong commitment to her child's academic success",
+                    "the mother's strong commitment to her child's academic success",
+                    "the parent's control over the child's leisure time",
+                    "the child's enthusiasm for group studies",
+                    "parent-child cooperation in the educational process",
+                    "the child's lack of independence on academic tasks"
+                ],
+                "correct_option": "the child's lack of independence on academic tasks",
+                "answer": "F"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Painting",
+            "difficulty": "Easy",
+            "domain": "Society",
+            "emotion": "Negative",
+            "rhetoric": [
+                "Contrast"
+            ],
+            "explanation": "This image depicts a mother and child together, in which the mother appears to be helping the child with their homework, but is actually writing it herself. This may symbolize the over-involvement of the parent in helping the child learn, and may even represent a situation where the parent is completing the task instead of the child. The child's expression shows dissatisfaction and frustration, which may reflect the child's reaction to a lack of autonomy and being denied the opportunity to learn."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-30.webp",
+        "questions": [
+            {
+                "id": "dev-30",
+                "question": "What does the floating pair of scissors most likely symbolize in this image?",
+                "options": [
+                    "The process of nurturing a child’s individuality",
+                    "The parental challenge of granting freedom to the child",
+                    "The necessity of cutting ties with old habits",
+                    "The child's resistance to school life",
+                    "The parent's attempt to control the direction of the child's future",
+                    "The inevitable process of the parent letting the child become independent"
+                ],
+                "correct_option": "The inevitable process of the parent letting the child become independent",
+                "answer": "F"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Painting",
+            "difficulty": "Easy",
+            "domain": "Society",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Symbolism",
+                "Analogy"
+            ],
+            "explanation": "This image shows two characters, an adult female and a little girl carrying a backpack. The woman in the picture is sitting on the ground, while the little girl walks forward, looking like she is on her way to school. Scissors suspended in the air may symbolize impending change or the necessity for parents to let go of their children, and this may not necessarily be an action taken by parents themselves. The little girl's back to the adult woman, walking forward, may symbolize that she is moving towards the path of independence and self-development. The connection between scissors and backpacks may represent the connection between parents and children, and the image of scissors suggests that this connection is about to be changed or adjusted.\nThis image may be depicting a critical moment in a child's growth process, when the child begins to be independent of their parents, and parents must accept this change. The posture of adult women sitting on the ground may exhibit a state of observation or powerlessness to intervene, reflecting the helplessness of parents in the face of their children's growth and departure.\nOverall, images may be exploring the natural process of children's growth and independence, as well as parents' adaptation to the constantly changing roles and emotions in this process. Although there was no direct action taken, the image of the scissors and the position of the parents conveyed a sense of impending letting go and transformation. This reinforces the dual role of parents in both providing support and gradually learning to let go during their children's growth process."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-31.jpg",
+        "questions": [
+            {
+                "id": "dev-31",
+                "question": "What does the merging of the Batman symbol with a human face symbolize in this image?",
+                "options": [
+                    "The transformation of Bruce Wayne into Batman, showing the loss of his personal identity.",
+                    "The facade that Bruce Wayne presents to the world as compared to his true self as Batman.",
+                    "The inseparability of Batman’s vigilante persona from Bruce Wayne’s public identity.",
+                    "Batman’s reliance on technology rather than human intuition.",
+                    "The transformation of Batman into a villain.",
+                    "The constant battle between Bruce Wayne’s desire for a normal life and his duties as Batman."
+                ],
+                "correct_option": "The inseparability of Batman’s vigilante persona from Bruce Wayne’s public identity.",
+                "answer": "C"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Logo",
+            "difficulty": "Middle",
+            "domain": "Art",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Symbolism"
+            ],
+            "explanation": "In this image, we see a stylized depiction of a face, utilizing elements that are reminiscent of the iconic imagery associated with Batman. The top of the image forms the familiar bat-like cowl, while the lower part morphs into what appears to be a human face with a beard, possibly suggesting a melding of Batman's persona with his alter-ego, Bruce Wayne. This imagery uses the dark and brooding color palette often associated with the Batman franchise.\nThe image seems to have a metaphorical meaning, suggesting a dual identity or the merging of two different identities into one. The bat symbol is seamlessly integrated into the human face, symbolizing the intertwined nature of Batman and his human side."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-32.jpg",
+        "questions": [
+            {
+                "id": "dev-32",
+                "question": "What does the weapon-like pattern in the image symbolize?",
+                "options": [
+                    "It signifies the balance between chaos and order in the universe.",
+                    "It signifies the convergence of mind, body, and spirit.",
+                    "Represents the raccoon's love and desire for weapons and equipment",
+                    "It symbolizes freedom from bondage and independence between heaven and earth.",
+                    "It illustrates the eternal struggle between good and evil.",
+                    "Weapons as tools in raccoon image"
+                ],
+                "correct_option": "It symbolizes freedom from bondage and independence between heaven and earth.",
+                "answer": "D"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Logo",
+            "difficulty": "Easy",
+            "domain": "Society",
+            "emotion": "Positive",
+            "rhetoric": [
+                "Personification"
+            ],
+            "explanation": "The image depicts a raccoon wielding a futuristic-looking weapon that emits thunder and lightning. The raccoon is wearing what appears to be a jumpsuit with orange and black stripes, which may be a reference to prison uniforms. The word \"ROCKET\" is overlaid on the weapon, possibly hinting at the character's name or codename. The background is pure black, making the characters and text stand out. The illustration style is bold, with sharp angles and limited tones of orange, black, white and gray, giving people a strong and powerful feeling. The overall composition of the image, with the raccoon in an action pose and its weapon prominent, suggests a sense of danger and aggression. The illustration can be interpreted as a metaphor for rebellion or resistance, with the raccoon symbolizing an individual or group fighting against larger forces of oppression. The prison-like costume may represent being trapped or imprisoned, while the weapons and the raccoon's ferocious expression suggest it is ready to fight back. The image can also evoke feelings of empowerment and defiance, as the raccoon appears fearless and determined."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-33.jpg",
+        "questions": [
+            {
+                "id": "dev-33",
+                "question": "What does the green color in this image primarily symbolize?",
+                "options": [
+                    "Growth and harmony.",
+                    "Jealousy.",
+                    "Wealth.",
+                    "Abundance and wealth",
+                    "Knowledge and wisdom.",
+                    "Balance and freshness."
+                ],
+                "correct_option": "Knowledge and wisdom.",
+                "answer": "E"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Logo",
+            "difficulty": "Hard",
+            "domain": "Art",
+            "emotion": "Neutral",
+            "rhetoric": [
+                "Symbolism"
+            ],
+            "explanation": "This image depicts a neon green illustration of Yoda from Star Wars on a black background. The bright, luminous colors are eye-catching and instantly grab the viewer's attention. Yoda's intense gaze and furrowed brow evoke a sense of intelligence and seriousness that reflects the character's role as a Jedi Master. The minimalistic layout and limited color palette provide a stark contrast, allowing the viewer to focus on the details of Yoda’s face. The use of neon green could symbolize Yoda's connection to the Force, as this color is often associated with energy and life. The black background adds an air of mystery and depth, hinting at the vastness and unknown of the universe. The overall effect is both engaging and thought-provoking, inviting viewers to consider the deeper themes of the Star Wars saga, such as the balance between light and dark, and the power of knowledge and inner strength."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-34.jpg",
+        "questions": [
+            {
+                "id": "dev-34",
+                "question": "What does the image of a grin showing sharp teeth symbolize?",
+                "options": [
+                    "Entwined with shadow, daunting and unreal",
+                    "Embracing shadows, teetering on the edge of reality",
+                    "fear of natural disasters",
+                    "Accepting the shadows, formidable and fantastical",
+                    "Surrendering to darkness yet dangerous and surreal",
+                    "Fear of being misunderstood by others"
+                ],
+                "correct_option": "Surrendering to darkness yet dangerous and surreal",
+                "answer": "E"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Logo",
+            "difficulty": "Middle",
+            "domain": "Art",
+            "emotion": "Negative",
+            "rhetoric": [
+                "Symbolism"
+            ],
+            "explanation": "The image depicts a stylized illustration of a clown's face that is both menacing and surreal. The dominant colors in the image are black, white, and red, with the clown's face in a pale white hue that contrasts sharply against the black background. The red flames that form the clown's hair add a sense of danger and intensity to the image. The clown's facial expression is one of malevolence, with a wide grin revealing sharp teeth, and eyes that seem to glare with a sinister intent. The layout of the image, with the clown's face centrally positioned and the flames extending outward, creates a sense of movement and chaos. The image may provoke emotions of fear, unease, and discomfort in the viewer, as clowns are often associated with the uncanny and the macabre. The clown can be interpreted as a symbol of the darker side of human nature, and the flames as a metaphor for the destructive and uncontrollable forces within us. Overall, the image is a powerful representation of the frightening and unpredictable aspects of the human psyche."
+        }
+    },
+    {
+        "local_path": "images/dev/dev-35.jpg",
+        "questions": [
+            {
+                "id": "dev-35",
+                "question": "What is the metaphorical significance of the glowing eye in this image?",
+                "options": [
+                    "It symbolizes enlightenment and the pursuit of knowledge.",
+                    "It represents the ever-present nature of surveillance in society.",
+                    "It signifies wisdom and the foresight of a leader.",
+                    "It conveys the omnipresent gaze of societal norms and expectations.",
+                    "It depicts the uninterrupted attention and care from protectors.",
+                    "It represents the vigilance and unending watchfulness of authority."
+                ],
+                "correct_option": "It represents the vigilance and unending watchfulness of authority.",
+                "answer": "F"
+            }
+        ],
+        "meta_data": {
+            "image_type": "Logo",
+            "difficulty": "Hard",
+            "domain": "Society",
+            "emotion": "Negative",
+            "rhetoric": [
+                "Metaphor",
+                "Symbolism"
+            ],
+            "explanation": "In the image, we see a graphic design predominantly in fiery shades of orange and red against a dark background. The central feature is the stylized text \"SAURON,\" designed to resemble the fiery, jagged form of a mountain or perhaps flames themselves. Above the text is a solitary, glowing eye which instantly brings to mind the image of the Eye of Sauron from J.R.R. Tolkien's Middle-earth legendarium. The eye seems to be surveilling from atop the \"mountain,\" as if looking out over a vast distance.\nThe picture has a metaphorical meaning, relating to the themes of power, oppression, and vigilant control, symbolized by the Eye of Sauron. The eye is a metaphor for an ever-watchful authority."
+        }
+    }
+]

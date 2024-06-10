@@ -1,0 +1,13 @@
+instruction: "Instruction: Please try to answer the single-answer multiple choice question below based on the picture and the key words."
+
+prompt_format: 
+  - |
+    Key words: {}
+    Question: {}
+    (A) {}
+    (B) {}
+    (C) {}
+    (D) {}
+    (E) {}
+    (F) {}
+    Answer:
