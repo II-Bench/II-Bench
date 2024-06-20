@@ -77,6 +77,13 @@ Alternatively, you can use the following command to evaluate the inference resul
 ```
 python eval.py --evaluate_all --output_dir ./results --save_dir ./results_with_status
 ```
+
+## Contact
+Ziqiang Liu: zq.liu4@siat.ac.cn
+Feiteng Fang: feitengfang@mail.ustc.edu.cn
+Ge Zhang: gezhang@umich.edu
+Shiwen Ni: sw.ni@siat.ac.cn
+
 ## Citation
 
 **BibTeX:**
