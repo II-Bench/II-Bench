@@ -34,8 +34,8 @@ In recent years, the development of Multimodal Large Language Models (MLLMs) has
 | GPT-4V                    | 65.9  |
 | GPT-4o                    | 72.6  |
 | Gemini-1.5 Pro            | 73.9  |
-| Qwen-VL-MAX               |**74.8**|
-
+| Qwen-VL-MAX               | 74.8  |
+| Claude 3.5 Sonnet         |**80.9**|
 
 
 
