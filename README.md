@@ -80,8 +80,11 @@ python eval.py --evaluate_all --output_dir ./results --save_dir ./results_with_s
 
 ## Contact
 Ziqiang Liu: zq.liu4@siat.ac.cn
+
 Feiteng Fang: feitengfang@mail.ustc.edu.cn
+
 Ge Zhang: gezhang@umich.edu
+
 Shiwen Ni: sw.ni@siat.ac.cn
 
 ## Citation
