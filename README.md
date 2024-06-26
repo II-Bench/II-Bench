@@ -1,8 +1,10 @@
 # II-Bench
-[**🌐 Homepage**](https://ii-bench.github.io) | [**🤗 Dataset**](https://huggingface.co/datasets/m-a-p/II-Bench) | [**🤗 Paper**](https://huggingface.co/papers/2406.05862) | [**📖 arXiv**](https://arxiv.org/abs/2406.05862) | [**GitHub**](https://github.com/II-Bench/II-Bench)
+[**🌐 Homepage**](https://ii-bench.github.io) | [**🤗 Dataset**](https://huggingface.co/datasets/m-a-p/II-Bench) | [**🤗 Paper**](https://huggingface.co/papers/2406.05862) | [**📖 arXiv**](https://arxiv.org/abs/2406.05862) | [**GitHub**](https://github.com/II-Bench/II-Bench) | [**EvalAI**]([https://github.com/II-Bench/II-Bench](https://eval.ai/web/challenges/challenge-page/2334/overview))
 
 
 This repo contains the evaluation code for the paper "[II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)"
+## 🔔News
+- We released [II-Bench](https://eval.ai/web/challenges/challenge-page/2334/overview) challenge on [EvalAI](https://eval.ai/). You can submit your results and evaluate them there.
 
 ## Introduction
 In recent years, the development of Multimodal Large Language Models (MLLMs) has significantly advanced our ability to understand and generate content across various modalities, yet evaluating their higher-order perceptual capabilities remains a challenge. To address this, we introduce II-Bench, a comprehensive benchmark designed to assess MLLMs' advanced perceptual, reasoning, and comprehension abilities through a diverse set of 1,222 images spanning six domains. Our extensive experiments on 20 MLLMs reveal significant performance gaps between models and humans, particularly in abstract domains like Art and Psychology. Our findings highlight the need for improved emotional understanding in MLLMs and suggest that incorporating emotional polarity information can enhance model performance. II-Bench aims to inspire advancements in multimodal AI research and foster the development of more sophisticated artificial general intelligence (AGI).
