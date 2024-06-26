@@ -4,7 +4,8 @@
 
 This repo contains the evaluation code for the paper "[II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)"
 ## 🔔News
-- We released [II-Bench](https://eval.ai/web/challenges/challenge-page/2334/overview) challenge on [EvalAI](https://eval.ai/). You can submit your results and evaluate them there.
+- 🔥[2024/6/26]: We released [II-Bench](https://eval.ai/web/challenges/challenge-page/2334/overview) challenge on [EvalAI](https://eval.ai/). You can submit your results and evaluate them there.
+- 🔥[2024/6/25]: We added the results of latest Claude 3.5 Sonnet, which achieved the SOTA performance among all models so far.
 
 ## Introduction
 In recent years, the development of Multimodal Large Language Models (MLLMs) has significantly advanced our ability to understand and generate content across various modalities, yet evaluating their higher-order perceptual capabilities remains a challenge. To address this, we introduce II-Bench, a comprehensive benchmark designed to assess MLLMs' advanced perceptual, reasoning, and comprehension abilities through a diverse set of 1,222 images spanning six domains. Our extensive experiments on 20 MLLMs reveal significant performance gaps between models and humans, particularly in abstract domains like Art and Psychology. Our findings highlight the need for improved emotional understanding in MLLMs and suggest that incorporating emotional polarity information can enhance model performance. II-Bench aims to inspire advancements in multimodal AI research and foster the development of more sophisticated artificial general intelligence (AGI).
