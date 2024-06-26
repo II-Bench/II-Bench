@@ -1,5 +1,5 @@
 # II-Bench
-[**🌐 Homepage**](https://ii-bench.github.io) | [**🤗 Dataset**](https://huggingface.co/datasets/m-a-p/II-Bench) | [**🤗 Paper**](https://huggingface.co/papers/2406.05862) | [**📖 arXiv**](https://arxiv.org/abs/2406.05862) | [**GitHub**](https://github.com/II-Bench/II-Bench) | [**EvalAI**]([https://github.com/II-Bench/II-Bench](https://eval.ai/web/challenges/challenge-page/2334/overview))
+[**🌐 Homepage**](https://ii-bench.github.io) | [**🤗 Dataset**](https://huggingface.co/datasets/m-a-p/II-Bench) | [**🤗 Paper**](https://huggingface.co/papers/2406.05862) | [**📖 arXiv**](https://arxiv.org/abs/2406.05862) | [**GitHub**](https://github.com/II-Bench/II-Bench) | [**EvalAI**](https://eval.ai/web/challenges/challenge-page/2334/overview)
 
 
 This repo contains the evaluation code for the paper "[II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)"
