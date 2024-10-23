@@ -4,6 +4,7 @@
 
 This repo contains the evaluation code for the paper "[II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)"
 ## 🔔News
+- 📰[2024/9/26]: II-Bench has been accepted to the NeurIPS 2024 Datasets and Benchmarks.
 - 🔥[2024/6/26]: We released [II-Bench](https://eval.ai/web/challenges/challenge-page/2334/overview) challenge on [EvalAI](https://eval.ai/). You can submit your results and evaluate them there.
 - 🔥[2024/6/25]: We added the results of latest Claude 3.5 Sonnet, which achieved the SOTA performance among all models so far.
 
