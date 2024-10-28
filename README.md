@@ -2,7 +2,7 @@
 [**🌐 Homepage**](https://ii-bench.github.io) | [**🤗 Dataset**](https://huggingface.co/datasets/m-a-p/II-Bench) | [**🤗 Paper**](https://huggingface.co/papers/2406.05862) | [**📖 arXiv**](https://arxiv.org/abs/2406.05862) | [**GitHub**](https://github.com/II-Bench/II-Bench) | [**EvalAI**](https://eval.ai/web/challenges/challenge-page/2334/overview)
 
 
-This repo contains the evaluation code for the paper "[II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)"
+[NeurIPS 2024 D&B Track] This repo contains the evaluation code for the paper "[II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)"
 ## 🔔News
 - 📰[2024/9/26]: II-Bench has been accepted to the NeurIPS 2024 Datasets and Benchmarks.
 - 🔥[2024/6/26]: We released [II-Bench](https://eval.ai/web/challenges/challenge-page/2334/overview) challenge on [EvalAI](https://eval.ai/). You can submit your results and evaluate them there.
